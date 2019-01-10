@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Mapping>
+  <JavaType type="String">
+    <DBType length="50">VARCHAR2</DBType>
+    <DBType length="1">CHAR</DBType>
+    <DBType length="0">LONG</DBType>
+  </JavaType>
+
+  <JavaType type="Integer">
+    <DBType length="">INT</DBType>
+    <DBType length="">SMALLINT</DBType>
+  </JavaType>
+
+  <JavaType type="Date">
+    <DBType length="7">DATE</DBType>
+  </JavaType>
+</Mapping>
